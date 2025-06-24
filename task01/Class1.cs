@@ -1,4 +1,4 @@
-
+﻿using System.Linq;
 namespace task01;
 
 public static class StringExtensions
